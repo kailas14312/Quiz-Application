@@ -1,9 +1,6 @@
 package com.comviva.quiz;
 
-public class MainClass {
-
-	
-	
+public class MainClass extends ShowQuiz {
 	
 	public static void main(String[] args)  {
 		
@@ -48,4 +45,4 @@ public class MainClass {
 	}
 }
 	
-}
+
